@@ -1,2 +1,5 @@
 # Task-1
 SQL Task
+To complete this task, I began by reviewing key database concepts through a set of interview questions and writing detailed answers to reinforce my understanding. 
+I then designed a database schema for an eCommerce store, using an ER diagram as a blueprint to map out the entities and their relationships. 
+MySQL Workbench was utilized to write and execute the DDL commands for table creation. Throughout the schema, I implemented appropriate constraints and keys, including primary keys, foreign keys, unique constraints to ensure data integrity and proper relational structure.
